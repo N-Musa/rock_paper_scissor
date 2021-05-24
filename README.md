@@ -1,5 +1,6 @@
 # rock_paper_scissor
-![](/src/screenshot.png)
+
+![](./src/screenshot.png)
 
 ##Built with
 
