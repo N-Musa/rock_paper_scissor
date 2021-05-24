@@ -1,0 +1,4 @@
+#IDE
+.vscode
+#Sys files
+.DS_store
